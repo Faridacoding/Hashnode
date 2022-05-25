@@ -1,22 +1,8 @@
 # Hashnode
-This repository is tutorial notebook for Pandas
+This repository contains code samples and documentation related to Hashnode blog articles.
 
-## Requisites
-- numpy
-- pandas
-- matplotlib
-- seaborn
+## Contents Posted
 
-## Creating a dataframe
-|       |price  |weight   |
-|-------|-------|---      |
-|Apples |2      |2        |
-|Bananas|2      |2        |
-|Carrots|2      |2        |
+1. Tutorial on Data Analysis in Python for Machine Learning
 
-## Data Analysis
-- Calculate the expenses based on family size
-
-## Data Visualization 
-- Bar Plot using matplotlib
-- Bar Plot using seaborn
+2. Noise Cleaning for Voice Datasets for Deep Learning
